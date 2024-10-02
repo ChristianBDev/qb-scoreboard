@@ -1,6 +1,9 @@
 # qb-scoreboard
 Scoreboard for QB-Core
 
+![image](https://github.com/user-attachments/assets/7e2fe0bb-25e2-417c-a1dd-c5c719bae9a8)
+
+
 # License
 
     QBCore Framework
